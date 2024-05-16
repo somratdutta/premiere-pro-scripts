@@ -41,11 +41,13 @@ To get started with these scripts, follow the steps below:
    ```bash
    git clone https://github.com/somratdutta/premiere-pro-scripts.git
    cd premiere-pro-scripts
-Navigate to a Script Directory:
+2. **Navigate to a Script Directory**:
 Choose a script to run and navigate to its directory. For example:
-
+```bash
 cd premiere-pro-backup
-Run the Script:
+```
+
+3. **Run the Script**:
 Execute the script by following the detailed instructions in the README file located in each script's directory.
 
 License
