@@ -50,6 +50,3 @@ Execute the script by following the detailed instructions in the README file loc
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-This updated README provides a more comprehensive and navigable documentation for your repository. It clearly outlines what each script does, highlights their features in bullet points for easy reading, and directly links to each script for quick access. Adjust the actual URL in the clone command and any other specifics to fit your repository's actual setup.
